@@ -1,0 +1,5 @@
+{
+  "name": "MycoLens - Free Mushroom Identification Tool",
+  "description": "A free, AI-powered mushroom identification tool with a futuristic interface. Upload a photo and let our AI analyze it. This app is for educational purposes only and has strict usage limits to remain free.",
+  "requestFramePermissions": []
+}
