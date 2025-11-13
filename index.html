@@ -16,7 +16,13 @@
 }
 </script>
     <style>
-      /* Removed buggy animation code */
+      @keyframes scan {
+        from { top: 0%; }
+        to { top: 100%; }
+      }
+      .scan-line {
+        animation: scan 2s linear infinite alternate;
+      }
     </style>
   </head>
   <body class="bg-slate-900 antialiased" style="background-image: radial-gradient(circle at center, #1e293b, #0f172a, #020617);">
